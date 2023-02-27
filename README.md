@@ -10,9 +10,10 @@
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/janhavi-gangurde-31b120240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"   alt="LinkedIn Badge"/>
+   
   </a>
- 
 </div>
+<img src="https://komarev.com/ghpvc/?username=Janhavi-Gangurde&style=flat-square&color=blue" alt=""/>
 </h1>
 
 I am an enthusiastic, ambitious student, eager to contribute to the technical world.Hands-on experience planning, analyzing, and implementing assigned projects.Apart from programming, I am a foodie and love travelling.
